@@ -1,0 +1,48 @@
+C:\Users\Ilya-PC\Desktop\Уляля\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Ilya-PC\Desktop\Уляля\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ilya-PC\Desktop\Уляля\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Ilya-PC\Desktop\Уляля\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ilya-PC\Desktop\Уляля\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ilya-PC\Desktop\Уляля\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ilya-PC\Desktop\Уляля\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ilya-PC\Desktop\Уляля\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ilya-PC\Desktop\Уляля\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Ilya-PC\Desktop\Уляля\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Person.resources
+C:\Users\Ilya-PC\Desktop\Уляля\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zarplata.resources
+C:\Users\Ilya-PC\Desktop\Уляля\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Vxod.resources
+C:\Users\Ilya-PC\Desktop\ПРГРМ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ilya-PC\Desktop\ПРГРМ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ilya-PC\Desktop\ПРГРМ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ilya-PC\Desktop\ПРГРМ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Ilya-PC\Desktop\ПРГРМ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Ilya-PC\Desktop\ПРГРМ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Person.resources
+C:\Users\Ilya-PC\Desktop\ПРГРМ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ilya-PC\Desktop\ПРГРМ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Vxod.resources
+C:\Users\Ilya-PC\Desktop\ПРГРМ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zarplata.resources
+C:\Users\Ilya-PC\Desktop\ПРГРМ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Ilya-PC\Desktop\ПРГРМ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ilya-PC\Desktop\ПРГРМ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ilya-PC\Desktop\Програ\ПРГРМ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ilya-PC\Desktop\Програ\ПРГРМ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ilya-PC\Desktop\Програ\ПРГРМ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ilya-PC\Desktop\Програ\ПРГРМ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Ilya-PC\Desktop\Програ\ПРГРМ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Ilya-PC\Desktop\Програ\ПРГРМ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Person.resources
+C:\Users\Ilya-PC\Desktop\Програ\ПРГРМ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ilya-PC\Desktop\Програ\ПРГРМ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Vxod.resources
+C:\Users\Ilya-PC\Desktop\Програ\ПРГРМ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zarplata.resources
+C:\Users\Ilya-PC\Desktop\Програ\ПРГРМ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Ilya-PC\Desktop\Програ\ПРГРМ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ilya-PC\Desktop\Програ\ПРГРМ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ilya-PC\Desktop\Программа Мазин ИС\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ilya-PC\Desktop\Программа Мазин ИС\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ilya-PC\Desktop\Программа Мазин ИС\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ilya-PC\Desktop\Программа Мазин ИС\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Ilya-PC\Desktop\Программа Мазин ИС\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Ilya-PC\Desktop\Программа Мазин ИС\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Person.resources
+C:\Users\Ilya-PC\Desktop\Программа Мазин ИС\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ilya-PC\Desktop\Программа Мазин ИС\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Vxod.resources
+C:\Users\Ilya-PC\Desktop\Программа Мазин ИС\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zarplata.resources
+C:\Users\Ilya-PC\Desktop\Программа Мазин ИС\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Ilya-PC\Desktop\Программа Мазин ИС\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ilya-PC\Desktop\Программа Мазин ИС\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
